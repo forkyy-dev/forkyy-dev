@@ -1,9 +1,21 @@
 # 👨🏻‍💻Seokho's Profile
 - 💻 안녕하세요 일상에 편리함과 변화를 줄 수 있는 ✨**Frontend 개발자**✨가 되기 위해 오늘도 학습하는 **함석호** 입니다.
 
-- 🌱 Stack : Javascript, React(Hooks), Redux, StyledComponents, Node.js
+### 🌱 Main Skills
+[![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+[![react Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 
-- 📫 Contact : [Email](mailto:kalejuice02@gmail.com)
+[![styled-components Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)](#)
+[![sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](#)
+
+### 🌱 Experience
+[![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![sequelize Badge](https://img.shields.io/badge/Sequelize-03AFEF?style=flat-square)](#)
+[![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
+[![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
+
+### 📫 Contact : [Email](mailto:kalejuice02@gmail.com)
 <!--
 **cocoball02/cocoball02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
