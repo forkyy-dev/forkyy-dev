@@ -1,5 +1,5 @@
 # 👨🏻‍💻Seokho's Profile
-- 💻 안녕하세요 일상에 편리함과 변화를 줄 수 있는 ✨**Frontend 개발자**✨가 되기 위해 오늘도 학습하는 **함석호** 입니다.
+💻 안녕하세요 일상에 편리함과 변화를 줄 수 있는 ✨**Frontend 개발자**✨가 되기 위해 오늘도 학습하는 **함석호** 입니다.
 
 ### 🌱 Main Skills
 [![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
