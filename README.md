@@ -14,9 +14,6 @@
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 [![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
 
-### 📫 Contact : [Email](mailto:kalejuice02@gmail.com)
-
-### Blog : [Dev Ham](https://cocoball02.github.io/)
 <!--
 **cocoball02/cocoball02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,11 +35,12 @@ Here are some ideas to get you started:
 
 
 
-<!---div align=center-->
 
-<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://zzsza.github.io/)](https://cocoball02.github.io/)-->
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://zzsza.github.io/)](https://cocoball02.github.io/)
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kalejuice02@gmail.com)](mailto:kalejuice02@gmail.com) -->
-<!--/div-->
+</div>
 
 <div align=center>
 
