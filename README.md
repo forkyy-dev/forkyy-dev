@@ -1,4 +1,3 @@
-# 👨🏻‍💻Seokho's Profile
 💻 안녕하세요 매일 꾸준히 성장하는 ✨**Frontend 개발자**✨ **함석호** 입니다.
 
 ### 🌱 Main Skills
