@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cocoball02&theme=react)](https://github.com/cocoball02/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cocoball02&theme=react)]
 
 
