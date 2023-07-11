@@ -25,7 +25,6 @@
   
 ## Info
   
-  [![resume](https://img.shields.io/badge/Resume-61DAFB?logo=ReadMe&logoColor=white)](http://forkyy-dev.site)
   [![tech-blog](https://img.shields.io/badge/-Tech--Blog-grey?logo=Tistory)](https://forkyy.tistory.com)
   [![gmail](https://img.shields.io/badge/GMail-red?logo=GMail&logoColor=white)](mailto:forkyy.dev@gmail.com)
 
